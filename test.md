@@ -1,10 +1,6 @@
-# Nord Background Collection
-<!-- todo --> update link to full?
-This repository contains various wallpapers. 
-~~Thumbnails below link to the full images.~~
 | | | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="200" src="0kvzhru1ncua1.jpg">|<img width="200" src="10.png">|<img width="200" src="16.png">|<img width="200" src="17220164418830.jpg">|<img width="200" src="1r1kk9qi00961.png">|<img width="200" src="36.png">|
+|<a href="0kvzhru1ncua1.jpg"><img width="200" src="0kvzhru1ncua1.jpg">|<img width="200" src="10.png">|<img width="200" src="16.png">|<img width="200" src="17220164418830.jpg">|<img width="200" src="1r1kk9qi00961.png">|<img width="200" src="36.png">|
 |<img width="200" src="39.png">|<img width="200" src="3xsraffkwi1a1.png">|<img width="200" src="41.png">|<img width="200" src="4315185.jpg">|<img width="200" src="48.png">|<img width="200" src="4w7e9vu1ncua1.jpg">|
 |<img width="200" src="50.png">|<img width="200" src="53.png">|<img width="200" src="54.png">|<img width="200" src="59bsn5hgnojy.jpg">|<img width="200" src="5qs71paaaic71.png">|<img width="200" src="6c8sflehi3991.jpg">|
 |<img width="200" src="73.png">|<img width="200" src="9zr8j5xxjhca1.jpg">|<img width="200" src="at_the_coffeshop.png">|<img width="200" src="bn2cm6gi26s81.jpg">|<img width="200" src="cfe14jehi3991.jpg">|<img width="200" src="ciym5tjtnke51.jpg">|
