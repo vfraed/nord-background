@@ -2,7 +2,7 @@
 
 This repository contains various wallpapers. Thumbnails below link to the full images.
 
-Credits for the original images go to the respective authors, as listed in the image metadata and the github repositories below.
+Credits for this repository go to the github repositories below.
 
 Original backgrounds from [ChrisTitusTech](https://github.com/ChrisTitusTech/nord-background).
 
