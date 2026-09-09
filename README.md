@@ -1,9 +1,13 @@
 # Nord Background Collection
 
 This repository contains various wallpapers. Thumbnails below link to the full images.
+
 Credits for the original images go to the respective authors, as listed in the image metadata and the github repositories below.
-Original backgrounds from [NoChrisTitusTechrd](https://github.com/ChrisTitusTech/nord-background).
-Origanal thumbnail grid for README from [meefs](https://github.com/meefs/nord-background).
+
+Original backgrounds from [ChrisTitusTech](https://github.com/ChrisTitusTech/nord-background).
+
+Original thumbnail grid for README from [meefs](https://github.com/meefs/nord-background).
+
 Github Actions workflow to update README from [shadowskytech](https://github.com/shadowskytech/nord-background).
 
 <table>
